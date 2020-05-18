@@ -10,7 +10,7 @@ As shown in the graphic for activity 3.1, not implementing an SDLC can result in
 
 ### Activity 3.2 - 
 
-![Our presentation focused on the waterfall model. We completed slides for our presentation, this is mine. ](../.gitbook/assets/image%20%282%29.png)
+![Our presentation focused on the waterfall model. We completed slides for our presentation, this is mine. ](../.gitbook/assets/image%20%2810%29.png)
 
 ### Activity 3.3 -
 

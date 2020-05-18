@@ -19,7 +19,7 @@ It also doesn't seem to have a truly determined method of implementation, rather
 2. **Decide on the things to be considered when assessing the usability of a system?** There are several factors commonly referred to as usability hueristics. Learnability seems to cover many of these aspects but it is broken down further into specific branches such as memorability and efficiency. A few other things to consider would be, how prone to errors is the system and how easily can a user fix an issue or find help to solve that issue? Is there appropriate and visible feedback from the interface? Is it consistent and precise throughout?     
 3. **Find at least one example of a system \(e.g. website, mobile app, etc.\) that demostrates good usability and one with poor usability. Take screenshots to aid in explaining your reasoning for coming to these conclusions.** It's far easier to find bad websites than good ones. The example of a good website that I chose feels like it follows most of the rules. The design is easy to look at and simple to follow with clear direction. The pointer changes when you mouse over a clickable button, which is a small thing but unfortunately uncommon. When you go to the quizzes you can scroll through but there isn't an easily visible option which makes it seem as though it's been manipulated so that the user preferably starts at the beginning, but doesn't have to, allowing some flexibility for the user. My biggest complaint would be that the header bar directs to the quizzes and not the home page.    ****
 
-![alcoholandme.org.nz](../.gitbook/assets/image%20%284%29.png)
+![alcoholandme.org.nz](../.gitbook/assets/image%20%288%29.png)
 
 This website is meant to provide helpful articles and tips but it's practically unreadable and is unusable on mobile. It's slow, there's an invisible header and footer that stays while scrolling through, making the readable space barely half of what it should be. The shop doesn't have those issues but the button functions don't always react as expected, the process is clumsy and unlikable.
 
@@ -33,7 +33,7 @@ This website is meant to provide helpful articles and tips but it's practically 
 
 ###   ****
 
-![\(second attempt\)](../.gitbook/assets/image%20%285%29.png)
+![\(second attempt\)](../.gitbook/assets/image%20%2811%29.png)
 
 
 
